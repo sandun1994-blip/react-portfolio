@@ -20,7 +20,7 @@ const Hero = () => {
             <Link> <button className='heroButton'>About</button></Link>
             <Link> <button className='heroButton'>Experience</button></Link>
             <Link> <button className='heroButton'>Skills</button></Link>
-            <Link> <button className='heroButton'>Projects</button></Link>
+            <Link href='#contact'> <button className='heroButton'>Projects</button></Link>
            
            
            
