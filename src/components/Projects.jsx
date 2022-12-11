@@ -22,12 +22,12 @@ const Projects = () => {
          whileInView={{ y: 0, opacity: 1 }}
          transition={{ duration: 1.2 }}
          viewport={{ once: true }}
-          src='src/assets/google.png' />
+          src='AI.png' />
         <div><h4 className='text-4xl font-semibold text-center'><span className='underline decoration-[#F7AB0A]/50'>
         Case Study {i+1} 0f {projects.length} :
-            </span> Facebook Clone</h4>
+            </span> CCTV</h4>
             <p className='text-lg text-center md:text-left '>
-                project summary project summary
+                CCTV CAMERA OBJECT DETECTED
                 </p></div>
     </div>))
 }
